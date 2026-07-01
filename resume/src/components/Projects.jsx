@@ -1,6 +1,6 @@
+import "../style/Projects.css"
 
-
-function Projects() {
+export default function Projects() {
   return (
     <div>
       <h2>Projects</h2>
@@ -10,4 +10,3 @@ function Projects() {
   );
 }
 
-export default Projects;

@@ -1,6 +1,6 @@
+import "../style/About.css"
 
-
-function About() {
+export default function About() {
   return (
     <div>
       <h2>About</h2>
@@ -10,4 +10,3 @@ function About() {
   );
 }
 
-export default About;

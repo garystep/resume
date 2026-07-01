@@ -1,6 +1,6 @@
+import '../style/Home.css';
 
-
-function Home() {
+export default function Home() {
   return (
     <div>
       <h2>Home</h2>
@@ -9,5 +9,3 @@ function Home() {
     </div>
   );
 }
-
-export default Home;
